@@ -24,5 +24,5 @@ https://doi.org/10.33422/ejest.v8i1.1472
 The dataset used in this study is publicly available at: https://doi.org/10.6084/m9.figshare.c.5779802.v1
 <br><br>
 ## **LICENSE**
-This project is available under the MIT license. See the LICENSE file for more details. 
+This project is available under the **MIT license**. See the LICENSE file for more details. 
 <br><br>
