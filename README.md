@@ -1,3 +1,7 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+![GitHub language count](https://img.shields.io/github/languages/count/rodrigoalexandre/sph-ecg-leads-convneuralnetwork)
+![GitHub top language](https://img.shields.io/github/languages/top/rodrigoalexandre/sph-ecg-leads-convneuralnetwork)
+![GitHub Repo stars](https://img.shields.io/github/stars/rodrigoalexandre/sph-ecg-leads-convneuralnetwork)
 ## **DESCRIPTION**
 
 Project developed for the study presented in the article *“A Comparative Study of ECG Leads in Predicting Cardiac Arrhythmias Using Deep Learning Models”* published by *European Journal of Engineering Science and Technology* (Volume 08, Issue 01, Jun. 2025).
